@@ -1,0 +1,2 @@
+variant,trace_idx,trace_length,time_taken,time_taken_potext,queued_events,visited_events,alignment_costs
+0,1,18,0.012037038803100586,N/A,294,90,90002
